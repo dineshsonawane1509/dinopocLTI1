@@ -14,7 +14,7 @@ steps:
   inputs:
     deploymentScope: 'Resource Group'
     ConnectedServiceName: 'dinosp'
-    subscriptionName: 'Visual Studio Professional'
+    subscriptionName: 'b4da08f6-7e8d-4942-84d1-82665ac2b99e'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'dinopoc'
     location: 'Central US'
